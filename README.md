@@ -1,6 +1,6 @@
 # DirecTV M3U Generator for ah4c
 
-Generates an M3U channel lineup from the DirecTV Stream API for use with [ah4c/adbtuner](https://github.com/ah4c/adbtuner).
+Generates an M3U channel lineup from the DirecTV Stream API for use with [ah4c](https://github.com/sullrich/ah4c)
 
 ## Requirements
 
